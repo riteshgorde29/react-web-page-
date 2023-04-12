@@ -1,0 +1,8 @@
+import React from 'react'
+import './Header.css'
+
+export const Header = () => {
+  return (
+    <div className='header text-center bg-primary text-white'>my First React Application</div>
+  )
+}
