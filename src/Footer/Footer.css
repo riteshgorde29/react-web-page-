@@ -1,0 +1,12 @@
+
+.Footer{
+    background: yellow;
+    font-size: 20px;
+    text-align: center;
+    padding: 8px;
+    position: fixed;
+    font-weight: bold;
+    bottom: 0;
+    width: 100%; 
+    cursor: pointer;
+}
